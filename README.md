@@ -8,6 +8,10 @@ An AI-powered, multi-agent system for automating procurement research and report
 
 
 
+<img width="1015" height="365" alt="Capture" src="https://github.com/user-attachments/assets/2d04031f-08e0-4577-95a3-7a16748991fc" />
+
+
+
 ## 🚀 Features
 
 - **🔍 Smart Search Query Generation**
